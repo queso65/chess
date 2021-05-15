@@ -295,7 +295,7 @@ class Board : Figures
                 {"wP", "wP", "wP", "wP", "wP", "wP", "wP", "wP"},
                 {"wR", "wN", "wB", "wQ", "wK", "wB", "wN", "wR"}
            };
-            madeMove = ;
+            madeMove = 0;
             color = 0;
             ShowBoard();
         }
